@@ -93,7 +93,7 @@ export default function Sidebar() {
           })}
         </div>
       </div>
-      <div className="pb-8">
+      <div className="pb-8 px-4">
         <Link
           href="/"
           className="flex rounded-lg items-center px-1 py-0.5 border-2 border-gray-200 font-semibold"
