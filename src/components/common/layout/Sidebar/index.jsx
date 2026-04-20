@@ -93,7 +93,7 @@ export default function Sidebar() {
           })}
         </div>
       </div>
-      <div className="p-4">
+      <div className="pb-8">
         <Link
           href="/"
           className="flex rounded-lg items-center px-1 py-0.5 border-2 border-gray-200 font-semibold"
@@ -103,9 +103,6 @@ export default function Sidebar() {
               <User className="w-4 h-4 rounded-full overflow-hidden border border-gray-100" />
               <div>
                 <h3 className="text-lg font-semibold">Alex miller</h3>
-                <p className="text-yellow-600 text-sm bg-yellow-100 rounded-full p-1">
-                  Elite
-                </p>
               </div>
             </div>
           </div>
