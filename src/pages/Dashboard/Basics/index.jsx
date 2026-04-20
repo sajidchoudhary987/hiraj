@@ -406,4 +406,6 @@ export const Basics = () => {
       </div>
     </section>
   );
-};
+}
+
+export default Basics;

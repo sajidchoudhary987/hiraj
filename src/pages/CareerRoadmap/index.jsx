@@ -369,4 +369,6 @@ export const CareerRoadmap = () => {
       </section>
     </div>
   );
-};
+}
+
+export default CareerRoadmap;

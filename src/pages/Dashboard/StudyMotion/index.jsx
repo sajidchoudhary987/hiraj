@@ -172,4 +172,6 @@ export const StudyMotion = () => {
       </div>
     </section>
   );
-};
+}
+
+export default StudyMotion;
